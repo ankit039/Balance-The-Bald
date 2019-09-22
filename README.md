@@ -1,4 +1,4 @@
-# Balance-The-Bald# Balance The Bald
+# Balance The Bald
 - This is the project of We Are Tornado.
 - As we have launched our first project which is a game (Balance The Bald).
 - This game is based upon how you balance the virtual player on the thin rod without colliding the bird.
